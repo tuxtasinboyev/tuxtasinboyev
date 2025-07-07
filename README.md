@@ -57,7 +57,7 @@
 ### 🌐 Social Links
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Phone: +998908330183](https://img.shields.io/badge/Phone-%2B998908330183-blue?style=flat-square&logo=phone&logoColor=white)](tel:+998908330183)
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/omadbek_tuxtasinboyev_1709)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/tuxtasinboyev)
 
