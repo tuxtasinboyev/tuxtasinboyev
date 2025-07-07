@@ -57,7 +57,7 @@
 ### 🌐 Social Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
-[![Telegram](https://t.me/omadbek_tuxtasinboyev_1709)  
+[![Telegram](@omadbek_tuxtasinboyev_1709)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/tuxtasinboyev)
 
 ---
